@@ -1,2 +1,6 @@
 # sc-2018-e2
-Soft Computing - 2018 - Računarstvo i automatika
+
+Repozitorijum kursa: **Soft Computing**  
+Smer: **Računarstvo i automatika**  
+Školska godina: **2018/2019**  
+
